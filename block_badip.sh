@@ -1,4 +1,4 @@
-#/bin/sh
+#！/bin/sh
 
 ## 根据lastb 的结果生成屏蔽 IP 列表并加入到 ufw 中
 
